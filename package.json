@@ -1,5 +1,5 @@
 {
-  "name": "com.hibisceae.InspectorButton",
+  "name": "com.hibisceae.inspectorbutton",
   "version": "1.0.0",
   "displayName": "InspectorButton",
   "description": "Adds an attribute-driven button to the Unity Inspector. Useful for testing, debugging, and triggering utility functions without writing custom editors."
